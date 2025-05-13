@@ -1,0 +1,32 @@
+{
+    "podcasts": [
+        {
+            "name": "Latent Space",
+            "rss_url": "https://rss.flightcast.com/vgnxzgiwwzwke85ym53fjnzu.xml",
+            "website": "https://www.latent.space/",
+            "language": "en",
+            "transcribe": true
+        },
+        {
+            "name": "The Circuit",
+            "rss_url": "https://feeds.transistor.fm/the-circuit",
+            "website": "https://thecircuit.fm/",
+            "language": "en",
+            "transcribe": true
+        },
+        {
+            "name": "The China-Global South Podcast",
+            "rss_url": "https://feeds.libsyn.com/500733/rss",
+            "website": "https://chinaglobalsouth.com",
+            "language": "en",
+            "transcribe": true
+        },
+        {
+            "name": "C.O.B. Tuesday",
+            "rss_url": "https://feeds.buzzsprout.com/1120160.rss",
+            "website": "https://veriten.com/streams/cob-tuesday/",
+            "language": "en",
+            "transcribe": true
+        }
+    ]
+}

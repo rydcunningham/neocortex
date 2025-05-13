@@ -3,13 +3,12 @@
 .DS_Store
 
 # Ignore everything in sample_drive
-sample_drive/inbox/**
-sample_drive/processed/**
-sample_drive/snapshots/**
+sample_drive/**/*
 
 # But keep the directories and their structure
 !sample_drive/**/
 !sample_drive/**/.gitkeep
+!sample_drive/**/*.json
 
 # Python
 __pycache__/
