@@ -1,5 +1,4 @@
 # utils/sec_filings/filing_utils.py
-import re
 import os
 import logging
 
