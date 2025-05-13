@@ -3,7 +3,9 @@
 .DS_Store
 
 # Ignore everything in sample_drive
-sample_drive/**/*
+sample_drive/inbox/**
+sample_drive/processed/**
+sample_drive/snapshots/**
 
 # But keep the directories and their structure
 !sample_drive/**/
