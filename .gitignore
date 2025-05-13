@@ -1,0 +1,16 @@
+.env
+.cursorrules
+.DS_Store
+
+# Ignore everything in sample_drive
+sample_drive/**/*
+
+# But keep the directories and their structure
+!sample_drive/**/
+!sample_drive/**/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
